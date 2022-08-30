@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![FULL STACK DEVELOPER](https://user-images.githubusercontent.com/102454695/187527002-17d9b7c4-5ee3-4458-aada-5b5eec12bcd2.png)
+
+Soy una persona bastante extrovertida, no me cuesta socializar, también soy curioso y me gusta mucho investigar sobre diversos temas. Me gusta trabajar en un ambiente ordenado, y planificar mis tareas y horarios con anticipación. Durante mis primeros trabajos siempre destaque sobre el resto por mi habilidad para el liderazgo, además de que siempre fui una persona directa y honesta a la hora de comunicarme con mis compañeros y superiores, lo que considero me llevó a ser encargado de administración de una PyME a mis 24 años. Ahora hace 12 años que me encuentro trabajando en la terminal portuaria de vehículos más grande de Argentina, la cual ha confiado en mi, haciéndome beneficiario de una beca completa para estudiar la carrera de Desarrollador Full Stack de la academia Henry.
 
 <!--
 **juanma2228/juanma2228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
