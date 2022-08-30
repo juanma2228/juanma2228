@@ -1,5 +1,6 @@
 
-![FULL STACK DEVELOPER](https://user-images.githubusercontent.com/102454695/187527002-17d9b7c4-5ee3-4458-aada-5b5eec12bcd2.png)
+![FULL STACK DEVELOPER Github](https://user-images.githubusercontent.com/102454695/187533107-3804f0d4-8943-404f-a203-6b13e8f83edc.gif)
+
 
 About me
 
