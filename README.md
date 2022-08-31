@@ -8,8 +8,7 @@
 
 ## About me
 
-Soy una persona bastante extrovertida, no me cuesta socializar, también soy curioso y me gusta mucho investigar sobre diversos temas. Me gusta trabajar en un ambiente ordenado, y planificar mis tareas y horarios con anticipación. Durante mis primeros trabajos siempre destaque sobre el resto por mi habilidad para el liderazgo, además de que siempre fui una persona directa y honesta a la hora de comunicarme con mis compañeros y superiores, lo que considero me llevó a ser encargado de administración de una PyME a mis 24 años. Ahora hace 12 años que me encuentro trabajando en la terminal portuaria de vehículos más grande de Argentina, la cual ha confiado en mi, haciéndome beneficiario de una beca completa para estudiar la carrera de Desarrollador Full Stack de la academia Henry.
-
+Me considero una persona extrovertida, sociable y que me adapto rápidamente a diferentes tipos de grupos. Una de mis cualidades más sobresaliente es mí curiosidad y mis ansias de investigar sobre los temas que me interesan e intrigan. Me gusta trabajar en un ambiente ordenado, y planificar mis tareas y horarios con anticipación. En mis experiencias laborales destaque por considerarme una persona directa, honesta y con capacidad de liderazgo, lo que considero me llevo a ser encargado de administración de una PyME a mis 24 años. Actualmente y desde hace 12 años me encuentro trabajando como personal operativo en la terminal portuaria de vehículos más grande de Argentina. Desde la empresa me dieron la posibilidad de acceder al programa de beca completa para estudiar la carrera de desarrollador Full Stack en la Academia Henry.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanma2228&label=Profile%20views&color=0e75b6&style=flat" alt="juanma2228" /> </p>
 
