@@ -1,5 +1,6 @@
+![FULL STACK DEVELOPER (1)](https://user-images.githubusercontent.com/102454695/187587353-378d778e-c1b7-4c00-a5fa-4451e861af8d.png)
 
-![FULL STACK DEVELOPER](https://user-images.githubusercontent.com/102454695/187533428-2cf64a29-3437-4c07-9a7c-8e29e6af9d19.png)
+
 
 <h1 align="center">Hi 👋, I'm Juan Manuel Colaneri</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
