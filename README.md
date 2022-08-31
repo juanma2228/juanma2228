@@ -1,4 +1,5 @@
-![FULL STACK DEVELOPER (1)](https://user-images.githubusercontent.com/102454695/187587353-378d778e-c1b7-4c00-a5fa-4451e861af8d.png)
+![FULL STACK DEVELOPER (1)](https://user-images.githubusercontent.com/102454695/187588306-b7278f34-ad72-432c-a3f6-8adca5fca17d.gif)
+
 
 
 
